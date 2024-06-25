@@ -1,4 +1,5 @@
 # Initia List - Initia Hub
+
 <p align="center">
   <br>
   <img width="200" src="./initia-list.png" alt="logo of awesome-sei">
@@ -14,7 +15,6 @@
 - [Monitoring Dashboards](#monitoring-dashboards)
 - [Node Scripts](#node-scripts)
 - [Guides, News and Articles](#guides-news-and-articles)
-- [Others](#others)
 - [International Communities](#international-communities)
 
 ## Official Links
@@ -47,7 +47,8 @@
 - [Binance Labs Investment](https://www.binance.com/en/blog/ecosystem/binance-labs-has-invested-in-initia--a-layer-1-network-for-0to1-rollups-2109457665857615519)
 - [Raised $7.5 Million](https://www.theblock.co/post/279038/former-terra-developers-raise-7-5-million-for-rollup-focused-blockchain-initia-targeting-q2-launch)
 
-## International Communities (Unofficial)
+## International Communities
+(Unofficial)
 - [Vietnam](https://t.me/initiavietnam)
 - [India](https://t.me/Initia_IN)
 - [Indonesia](https://t.me/initia_indonesian)
@@ -55,6 +56,8 @@
 - [CIS](https://t.me/Initia_CIS)
 - [Korea](https://t.me/InitiaKRchat)
 - [Romania](https://t.me/Initia_RO)
+
+
 
 Initia List is community-initiated projects. While valuable resources, they are not officially maintained by the Initia Labs.
 
